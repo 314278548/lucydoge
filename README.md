@@ -29,6 +29,5 @@ Doge奖池买入奖励 静态分红自动销毁卖出惩罚
 
 ️FOMO奖励———每笔【卖出】其中2%进入BNB奖池，30分钟内无买入交易，40%BNB奖池自动发放给予最后买入者；
 私募已经开启：1BNB=2亿（0.1BNB起，最大不超过2BNB）私募结束后发放代币
-私募地址：0x7b1f29A666937A9163176bfE3d8347A489542706
-电报：https://t.me/joinchat/b4B16ojU051mMDBl
-推特：https://twitter.com/LuckyDoge14/status/1408824187666456576?s=20
+
+合作：wuky1998@gmail.com
